@@ -89,6 +89,58 @@ GenerateClassCluster=0
 DocumentUniqueId=DIXNMSJC
 
 [GeneratedDocument1]
+DocumentPath=Project Outputs for CarrotDriver\NC Drill\CarrotDriver.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CarrotDriver\NC Drill\CarrotDriver.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.REP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CarrotDriver\Gerber\CarrotDriver.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CarrotDriver\NC Drill\CarrotDriver.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for CarrotDriver\Design Rule Check - CarrotDriver.html
 DItemRevisionGUID=
 
